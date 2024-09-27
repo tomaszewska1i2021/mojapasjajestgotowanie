@@ -1,0 +1,101 @@
+
+    
+    body, h1, p {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #ffffff;
+    }
+
+    body{
+        background-color: #B2FA9F;
+    }
+
+    header {
+        background-color: #AABAA6;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    div{
+        padding: 20px;
+    }
+
+    section {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        color: #ffffff;
+    }
+
+    h2 {
+        color: #5A7A51;
+    }
+
+    .przepis {
+        border: 1px solid #9c9999;
+        padding: 10px;
+        margin-bottom: 20px;
+        background-color: #5A7A51;
+        
+    }
+
+    .przepis-zdjecie{
+        float:right;
+        margin-right: 5px;
+        width: 300px;
+        height: 200px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+    }   
+    footer {
+        background-color: #AABAA6;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    }
+
+    table {
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+
+    th{
+        color: #ffffff;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    tr {
+        display: table-row;
+        vertical-align: inherit;
+        border-color: inherit;
+    }
+
+    td {
+
+        min-width: 50px;
+        height: 30px;
+        
+    }
+
+    .bold{
+        font-weight: bold;
+    }
+   
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+      }
+       
+    a {
+        color: #ffffff;
+        text-decoration: none;
+    }
